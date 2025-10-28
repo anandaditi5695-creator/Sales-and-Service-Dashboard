@@ -24,7 +24,7 @@ Interactive Looker Studio dashboard analyzing company Sales and Service performa
 - Champlain and Beaufort models had the most service activity
 - Airbag and Suspension systems generated the highest service volume
 
-![Service Dashboard Screenshot](Service dashboard.png)
+![Service Dashboard Screenshot](./services_dashboard.png)
 
 ---
 
