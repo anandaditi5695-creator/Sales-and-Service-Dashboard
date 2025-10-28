@@ -12,7 +12,7 @@ Interactive Looker Studio dashboard analyzing company Sales and Service performa
 - Top regions: Hudson and Labrador
 - Gradual decline in profit after February due to seasonal demand drop
 
-[(Sales dashboard.png)]
+[(sales_dashboard.png)]
 
 ---
 
