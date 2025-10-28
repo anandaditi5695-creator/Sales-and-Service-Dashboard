@@ -12,7 +12,7 @@ Interactive Looker Studio dashboard analyzing company Sales and Service performa
 - Top regions: Hudson and Labrador
 - Gradual decline in profit after February due to seasonal demand drop
 
-![Sales Dashboard Screenshot](sales_dashboard.png)
+![Sales Dashboard Screenshot](Sales dashboard.png)
 
 ---
 
@@ -24,7 +24,7 @@ Interactive Looker Studio dashboard analyzing company Sales and Service performa
 - Champlain and Beaufort models had the most service activity
 - Airbag and Suspension systems generated the highest service volume
 
-![Service Dashboard Screenshot](service_dashboard.png)
+![Service Dashboard Screenshot](Service dashboard.png)
 
 ---
 
@@ -36,4 +36,4 @@ Interactive Looker Studio dashboard analyzing company Sales and Service performa
 
 ---
 
-🔗 **View Live Dashboard:** [Add your Looker Studio link here]
+**View Live Dashboard:** [(https://lookerstudio.google.com/s/p4KU3R2Uiqo)]
